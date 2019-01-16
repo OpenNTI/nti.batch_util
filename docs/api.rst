@@ -5,4 +5,4 @@
 Interfaces
 ==========
 
-.. automodule:: nti.utils.babel
+.. automodule:: nti.batch_util.babel
